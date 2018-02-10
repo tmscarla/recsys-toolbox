@@ -19,6 +19,10 @@ where P(k) is the precision at cut-off k, rel(i) is 1 if item in position k is r
 
 The mean average precision for N users at position 5 is the average of the average precision of each user, i.e.,
 
+## Get started
+
+## Results
+
 ## Requirements
 | Package              | Version        |
 | ---------------------|:--------------:|  
