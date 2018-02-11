@@ -265,5 +265,4 @@ class Builder(object):
         return S
 
 
-
-print(Builder().get_URM().getnnz())
+print(Builder().build_ICM().shape)
