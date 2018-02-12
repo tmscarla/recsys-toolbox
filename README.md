@@ -99,6 +99,8 @@ The process can be summarized as follows:
 <img height="350" src="https://github.com/tmscarla/RecSys/blob/master/img/hybrid.png">
 </p>
 
+For the course I had also to present my work to Professor Cremonesi and to my colleagues. All the slides are in the file 'Slides.pdf', entirely in English.
+
 ## Requirements
 | Package              | Version        |
 | ---------------------|:--------------:|  
