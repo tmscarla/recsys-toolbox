@@ -1,7 +1,7 @@
 <p align="center"><img height="200" src="http://www.esplore.polimi.it/wp-content/uploads/2017/05/polimi-logo-1-1.png"></p>
 
 
-# RecSys
+# RecSys Toolbox
 
 ## Overview
 
